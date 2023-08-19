@@ -5,7 +5,7 @@
 
 💻 I’m an aspiring frontend developer
 
-🚗 Currently working on [Car Collective React App](https://github.com/alexfcb159/CCReactApp)
+💬 Currently working on [Anonymous Chat](https://github.com/alexfcb159/anonchat)
 
 Fun fact: I love winter and freezy weather 🥶
 
